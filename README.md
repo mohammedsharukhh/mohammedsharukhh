@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif)](https://friendly-cucurucho-c0aa8a.netlify.app/)
+<iframe src="https://giphy.com/embed/11kEuHSQAXXiGQ" width="480" height="271" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/the-it-crowd-11kEuHSQAXXiGQ">via GIPHY</a></p>
 <h1 align="center">Hi 👋, I'm mohammed sharuk m s</h1>
 <h3 align="center">A passionate Programmer from India</h3>
 
